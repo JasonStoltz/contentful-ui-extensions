@@ -4,6 +4,6 @@ export const actions = store => ({
       components: state.components.concat({
         type
       })
-    }
-  },
+    };
+  }
 });
