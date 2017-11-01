@@ -1,0 +1,6 @@
+{
+  "id": "page-builder",
+  "name": "Page Builder",
+  "srcdoc": "./index.html",
+  "fieldTypes": ["Object"]
+}
