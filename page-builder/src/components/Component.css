@@ -1,0 +1,9 @@
+.content-component {
+  background-color: lightgray;
+  padding: 10px 10px 10px 10px;
+  margin-bottom: 10px;
+}
+
+.content-component-head {
+  margin: 0 0 10px;
+}
