@@ -11,7 +11,6 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Page Builder</h1>
           <ComponentMenu />
           <Components />
         </header>

@@ -1,10 +1,15 @@
 import React from "react";
-import { connect } from "redux-zero/react";
 
-export default (({ component }) => {
+export default ({ component }) => {
   return (
-    <div>
-      <label>Text</label><textarea />
+    <div className="cf-form-field">
+      <label>Text</label>
+      <input type="text" className="cf-form-input" />
     </div>
   );
-});
+};
+
+export const initialState = {
+  type: "Quote",
+  text: ""
+};

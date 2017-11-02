@@ -8,7 +8,7 @@ export default connect(mapToProps)(({ components }) => {
   return (
     <div>
       {components.map((component, i) => {
-        return <Component component={component} key={i} />;
+        return <Component component={component} index={i} key={i} />;
       })}
     </div>
   );

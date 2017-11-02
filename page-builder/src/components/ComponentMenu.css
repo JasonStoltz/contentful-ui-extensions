@@ -5,7 +5,5 @@
 }
 
 .component-menu-item {
-  display: inline-block;
-  margin: 0 0 0 5px;
-  padding: 0;
+  margin-right: 5px;
 }
