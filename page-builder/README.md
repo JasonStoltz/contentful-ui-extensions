@@ -1,4 +1,4 @@
-# BCO Page Builder
+# Page Builder
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
